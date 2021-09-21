@@ -52,10 +52,9 @@ This is a data science project that aims to get behavioral profiles on youths at
 |  6). Data analysis through an interactive   |   06.10.2021 - 08.10.2021              |
 |       dashboard using streamlit             |   (Wednesday,Thursday and Friday)      |   
 |                                             |                                        |
-|                                             |                                        |
+|             :.................:             |          :--------:                    |
 |                                             |                                        |
 |  7). Data Visualization                     |   11.10.2021                           |
 |                                             |   (Monday)                             |
 |                                             |
-|                                             |
-|                                             |
+|                        
