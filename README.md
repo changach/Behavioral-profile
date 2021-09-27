@@ -17,7 +17,7 @@ This is a data science project that aims to get behavioral profiles on youths at
                                             - The neew Humanitarian
                                             - Africa portal
                                             - ccgdcentre.org
-2. Cleaning data(removing duplications )
+2. Cleaning data(removing duplications ) - cleaning of special characters, downcasing, punctuation signs. possessive     pronouns and stop words removal and lemmatization.
 
 3. Data analysis 
        using an interactive dashboard 
@@ -36,36 +36,38 @@ This is a data science project that aims to get behavioral profiles on youths at
                                                                                      
   2). scraping through nation newspaper and                      
         saving in the database                                                            
-         23/09/2021 - 26/09/2021                            
-      (Thursday, Friday and Sunday)             
+         23/09/2021 - 28/09/2021                            
+      (Thursday, Friday and Sunday, Monday Tuesday)             
 
 
   3). scraping through websites and                                     
         saving in a database                                                                         
-          27/09/2021 - 29.09.2021   
-      (Monday - Wednesday)          
+          29/09/2021 - 1.10.2021   
+      ( Wednesday to Friday)           
 
 
                                                                                      
   4). scraping through pdfs and                                              
          saving in database                                                               
-    30.09.2021 - 01.10.2021                               
-      (Thursday and Friday )                                                                  
+    02.09.2021 - 04.10.2021                               
+      (Saturday to Monday )                                                                  
 
 
   5). Cleaning data by removing duplicates                               
          and unwanted data                                      
-     04/10/2021 - 05/10/2021 
-     (Monday and Tuesday)
+     05/10/2021 - 08/10/2021 
+     (Tuesday to friday)
 
 
                                                                                      
   6). Data analysis through an interactive                               
        dashboard using streamlit                                    
-        06.10.2021 - 08.10.2021                                                                        
-  (Wednesday,Thursday and Friday)                                                         
+        11.10.2021 - 14.10.2021                                                                        
+  (Sunday,Monday,Tuesday and Wednesday)                                                         
  
   7). Data Visualization                                                                  
-      11.10.2021                           
-    (Monday)                                   
+      15.10.2021                           
+    (Thursday----)                                   
                         
+
+
